@@ -6,7 +6,7 @@
 - 📫 You reach me by mail, saner[at]campus.tu-berlin.de
 - 👍🏻 You can connect me via [Linkedin]
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=mertsaner)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
