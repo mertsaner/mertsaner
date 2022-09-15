@@ -6,8 +6,6 @@
 - 📫 You reach me by mail, saner[at]campus.tu-berlin.de
 - 👍🏻 You can connect me via [Linkedin]
 
-  <!--- ![](https://komarev.com/ghpvc/?username=mertsaner) --> 
-
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <a href="https://isocpp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="35" height="39"/>
@@ -33,3 +31,6 @@
  <!---  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> ---> 
    <!--- New Version Version ---> 
   <!---  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="37" height="40"/> ---> 
+
+
+  <!--- ![](https://komarev.com/ghpvc/?username=mertsaner) --> 
