@@ -19,6 +19,7 @@
 [website]: https://mertsaner.com
 [linkedin]: https://www.linkedin.com/in/mertsaner
 
+<i>"Java is strategy game."</i>
  
   <!---Compact Layout-Used Earlier--> 
   <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertsaner&layout=compact)](https://github.com/mertsaner/github-readme-stats)
