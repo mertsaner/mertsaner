@@ -20,6 +20,9 @@
 [linkedin]: https://www.linkedin.com/in/mertsaner
 
 <i>"Use only keyboard shortcuts for most of the things"</i>
+     
+<i>"Hard work ALWAYS pays off"</i>
+
  
   <!---Compact Layout-Used Earlier--> 
   <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertsaner&layout=compact)](https://github.com/mertsaner/github-readme-stats)
