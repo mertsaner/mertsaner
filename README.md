@@ -21,7 +21,7 @@
 
 <i>"Use only keyboard shortcuts for most of the things"</i>
      
-<i>"Hard work ALWAYS pays off"</i>
+<i>"Hard work always pays off"</i>
 
  
   <!---Compact Layout-Used Earlier--> 
