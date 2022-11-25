@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Mert Saner, competitive programmer and scientific computing Master of Science student at Technical University of Berlin 👨🏻‍💻💪🏻🙏🏻
-- 👨🏻‍💻  I am a software engineer at Zuse Institute Berlin (ZIB)  
+- 👨🏻‍💻  I am a software engineer at Hapag-Lloyd AG 
 - 👀 I’m interested in Java, C++ and Python 
 - 🌱 I’m currently improving my C++ programming skills
 - 🤝🏻 I’m looking to collaborate on research ideas
@@ -18,8 +18,6 @@
 
 [website]: https://mertsaner.com
 [linkedin]: https://www.linkedin.com/in/mertsaner
-
-<i>"Use only keyboard shortcuts for most of the things"</i>
      
 <i>"Hard work always pays off"</i>
 
