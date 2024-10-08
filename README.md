@@ -1,5 +1,4 @@
 - 👋🏻 Hi, I’m Mert Saner, competitive programmer and scientific computing Master of Science student at Technical University of Berlin 👨🏻‍💻💪🏻🙏🏻
-- 👨🏻‍💻  I am a software engineer at Hapag-Lloyd AG 
 - 👀 I’m interested in Java, C++ and Python 
 - 🌱 I’m currently improving my C++ programming skills
 - 🤝🏻 I’m looking to collaborate on research ideas
@@ -16,9 +15,7 @@
      <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" alt="Latex" width="95" height="40"/> </a> </p>
 
-[website]: https://mertsaner.com
 [linkedin]: https://www.linkedin.com/in/mertsaner
-     
 <i>"Hard work always pays off"</i>
 
  
